@@ -1,0 +1,14 @@
+Descrição
+
+A Narrativa de um relatório composto por 3 Visualizações sendo elas:
+
+1. Página Inicial: com diferencial de estilização modelo hover
+2. Visão Geral: Com os Cards informativos de Receita, Custo, Despesa e Lucro, 
+                2 Graficos de barras sendo estilizados para acompanhamento ao longo do tempo
+                entre os anos atual e anao anterior.
+                2 graficos no modelo pizza tranzendo os percentuais relativos
+                e ainda trás um top 5 dos vendedore com maior receita.
+ 3. Detalhamento:  Trás um Grafico em cascata podendo acompanhar as variações ao longo do tempo
+                   e uma tabelada detalhando com icones de sinalização e mais dois cards com o crescimento referente ao ano anterior e a representação do lucro.
+                   
+  Link para visualização: http://encurtador.com.br/mtNQR
